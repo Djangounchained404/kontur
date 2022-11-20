@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75a10f78-9c33-4aba-968d-9207d338cfed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/kontur/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2035124163">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="eml" value="1" />
+          <entry key="htaccess" value="2" />
+          <entry key="php" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="PHP" value="63" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="htaccess" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="121" />
+          <entry key="dummy" value="13" />
+          <entry key="php" value="1542" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="121" />
+          <entry key="HTML" value="1" />
+          <entry key="PHP" value="1541" />
+          <entry key="PLAIN_TEXT" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontur/frontend/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontur/frontend/models/UploadFormModel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <element signature="e#118#131#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontur/frontend/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="e#40#70#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kontur/frontend/views/site/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontur/frontend/component/Common.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="41" column="106" selection-start-line="41" selection-start-column="106" selection-end-line="41" selection-end-column="106" />
+              <folding>
+                <element signature="e#121#129#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontur/common/config/main-local.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontur/frontend/web/css/my_style_site.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>site.css</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\OpenServer\domains\localhost\kontur\kontur</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kontur/console/migrations/m221116_122735_create_news_table.php" />
+        <option value="$PROJECT_DIR$/kontur/console/migrations/m221116_121815_kontur_user.php" />
+        <option value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2/base/Application.php" />
+        <option value="$PROJECT_DIR$/kontur/common/config/test-local.php" />
+        <option value="$PROJECT_DIR$/kontur/backend/assets/AppAsset.php" />
+        <option value="$PROJECT_DIR$/kontur/frontend/assets/AppAsset.php" />
+        <option value="$PROJECT_DIR$/kontur/.htaccess" />
+        <option value="$PROJECT_DIR$/kontur/common/models/User.php" />
+        <option value="$PROJECT_DIR$/kontur/frontend/models/UploadFormModel.php" />
+        <option value="$PROJECT_DIR$/kontur/console/migrations/m221116_121815_create_news_table.php" />
+        <option value="$PROJECT_DIR$/kontur/frontend/web/css/my_style_site.css" />
+        <option value="$PROJECT_DIR$/kontur/common/config/main.php" />
+        <option value="$PROJECT_DIR$/kontur/frontend/config/main.php" />
+        <option value="$PROJECT_DIR$/kontur/common/config/main-local.php" />
+        <option value="$PROJECT_DIR$/kontur/frontend/component/Common.php" />
+        <option value="$PROJECT_DIR$/kontur/frontend/views/site/index.php" />
+        <option value="$PROJECT_DIR$/kontur/frontend/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/kontur/frontend/views/layouts/main.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/kontur/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/kontur/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/kontur/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/kontur/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/kontur/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/kontur/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/kontur/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/kontur/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/kontur/vendor/composer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/lib-web" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/kontur/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-symfonymailer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/kontur/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-bootstrap5" />
+      <path value="$PROJECT_DIR$/kontur/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/kontur/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/kontur/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/kontur/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-iconv" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="290" />
+    <option name="y" value="-15" />
+    <option name="width" value="1385" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kontur" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="kontur" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OpenServer\domains\localhost\kontur\kontur\migrations" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75a10f78-9c33-4aba-968d-9207d338cfed" name="Default Changelist" comment="" />
+      <created>1668600408397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668600408397</updated>
+      <workItem from="1668600409718" duration="9114000" />
+      <workItem from="1668651473868" duration="20933000" />
+      <workItem from="1668747294112" duration="528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30575000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17583893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932885" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067115" side_tool="true" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kontur/migrations/lib/TextTypeTrait.php" />
+    <entry file="file://$PROJECT_DIR$/kontur/migrations/m210706_074851_init.php" />
+    <entry file="file://$PROJECT_DIR$/kontur/console/migrations/m221116_122735_create_news_table.php" />
+    <entry file="file://$PROJECT_DIR$/kontur/console/migrations/m190124_110200_add_verification_token_column_to_user_table.php" />
+    <entry file="file://$PROJECT_DIR$/kontur/console/migrations/m130524_201442_init.php" />
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/web/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/vendor/yiisoft/yii2/views/migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/common/config/params-local.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/common/config/test.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/common/config/params.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/common/config/test-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/config/params-local.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/config/test-local.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/config/test.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/web/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/backend/assets/AppAsset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/assets/AppAsset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/common/models/LoginForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/vendor/yiisoft/yii2/db/BaseActiveRecord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="907" column="30" lean-forward="true" selection-start-line="907" selection-start-column="30" selection-end-line="907" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/console/migrations/m221116_121815_create_news_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/common/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="181" column="7" lean-forward="true" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/vendor/yiisoft/yii2/base/Component.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="100" column="6" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/vendor/yiisoft/yii2/base/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/runtime/mail/20221117-095058-3539-0359.eml" />
+    <entry file="file://$PROJECT_DIR$/kontur/common/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/vendor/yiisoft/yii2/web/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/models/UploadFormModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="e#118#131#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/component/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="41" column="106" selection-start-line="41" selection-start-column="106" selection-end-line="41" selection-end-column="106" />
+          <folding>
+            <element signature="e#121#129#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/web/css/my_style_site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#68#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="e#40#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontur/frontend/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

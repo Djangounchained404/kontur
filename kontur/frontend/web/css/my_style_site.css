@@ -1,0 +1,23 @@
+
+
+.help-block {
+    color: red;
+}
+
+.field-uploadformmodel-username ,
+.field-uploadformmodel-phone ,
+.field-uploadformmodel-email {
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.send-form-button {
+    width: 100%;
+}
+
+.alert-massage{
+ border: 2px green solid;
+    background-color: lightgreen;
+    color: black;
+    border-radius: 15px;
+}

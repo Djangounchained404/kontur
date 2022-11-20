@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/kontur/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/kontur/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/kontur/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/kontur/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/kontur/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/kontur/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/kontur/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/kontur/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/kontur/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/kontur/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/kontur/vendor/composer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/kontur/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/lib-web" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/kontur/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/kontur/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-symfonymailer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/kontur/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-bootstrap5" />
+      <path value="$PROJECT_DIR$/kontur/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/kontur/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/kontur/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/kontur/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/kontur/vendor/symfony/polyfill-iconv" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/kontur/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
